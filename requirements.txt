@@ -1,0 +1,8 @@
+pip install mintapi
+pip install gspread
+pip install df2gspread
+pip install oauth2client
+pip install pandas
+
+# a google cloud acc
+# a Mint acc
